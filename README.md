@@ -1,5 +1,4 @@
 # Eric-ZDC.github.io
-<!DOCTYPE html>
 <html>
 <head>
 <style>
